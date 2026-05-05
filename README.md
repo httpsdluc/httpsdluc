@@ -1,17 +1,29 @@
-## Hi there 👋
+## Hi, I'm Diana
 
-<!--
-**httpsdluc/httpsdluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at The City College of New York, focused on AI/ML, full-stack development, and data systems.
 
-Here are some ideas to get you started:
+I build software that turns unstructured data into useful tools. My work sits at the intersection of machine learning, backend engineering, and product development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsdluc)](https://github.com/anuraghazra/github-readme-stats)
+### Focus areas
+
+Machine learning and NLP (embeddings, semantic similarity, evaluation) · backend systems and APIs (FastAPI, data pipelines) · full-stack development (React, Next.js) · designing AI products that are technically sound and actually usable.
+
+### Toolkit
+
+**Languages:** Python, TypeScript, JavaScript, C++  
+**Frameworks:** React, Next.js, FastAPI  
+**ML/AI:** LLMs, embeddings, agent workflows, prompt engineering  
+**Cloud:** GCP, Firebase, AWS
+
+### Interests
+
+ML-integrated software, distributed systems, and data-intensive applications — particularly how these systems get architected end-to-end.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/dlucero0715) · [Email](mailto:dlucero0715@gmail.com) · [Portfolio](https://dianalucero.vercel.app/)
+
+---
+
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsdluc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsdluc&layout=compact&hide_border=true)
