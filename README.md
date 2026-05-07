@@ -70,6 +70,4 @@ ML-integrated software, distributed systems, and data-intensive applications —
 
 ---
 
-![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsdluc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsdluc&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=httpsdluc&theme=tokyonight&hide_border=true)
