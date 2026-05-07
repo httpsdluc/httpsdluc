@@ -1,4 +1,4 @@
-# Hi, I'm Diana 👋
+# Hi, I'm Diana
 
 Computer Science student at The City College of New York, focused on AI/ML, full-stack development, data systems, and software engineering.
 
