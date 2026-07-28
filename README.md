@@ -68,6 +68,3 @@ ML-integrated software, distributed systems, and data-intensive applications —
 
 [LinkedIn](https://www.linkedin.com/in/dlucero0715) • [Email](mailto:dlucero0715@gmail.com) • [Portfolio](https://dianalucero.vercel.app/)
 
----
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=httpsdluc&theme=tokyonight&hide_border=true)
